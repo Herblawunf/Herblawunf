@@ -9,7 +9,7 @@ These are all pretty bad but I'm proud of them
   * [Live preview](https://herblawunf.github.io/TOP-Practice/)
   * Repository: [Github](https://github.com/Herblawunf/TOP-Practice)
 
-## What do I know
+## What I'm learning
 
 ###### Languages
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
