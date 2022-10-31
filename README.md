@@ -1,6 +1,13 @@
 # 👑 Dylan's Github
-```Just a guy learning to code```
----
+
+**`Just a guy learning to code`** <br />
+I am currently following The Odin Project and learning full-stack web development 
+
+## Projects
+These are all pretty bad but I'm proud of them
+* &#128216; **My first website**, the first website I built from scratch with the Odin Project.
+  * [Live preview](https://herblawunf.github.io/TOP-Practice/)
+  * Repository: [Github](https://github.com/Herblawunf/TOP-Practice)
 
 ## What do I know
 
