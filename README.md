@@ -8,6 +8,9 @@ These are all pretty bad but I'm proud of them
 * &#128216; **My first website**, the first website I built from scratch with the Odin Project.
   * [Live preview](https://herblawunf.github.io/TOP-Practice/)
   * Repository: [Github](https://github.com/Herblawunf/TOP-Practice)
+* &#128216; **Rock paper scissors**, my first use of DOM manipulation!.
+  * [Live preview](https://herblawunf.github.io/Rock-Paper-Scissors-TOP/)
+  * Repository: [Github](https://github.com/Herblawunf/Rock-Paper-Scissors-TOP)
 
 ## What I'm learning
 
