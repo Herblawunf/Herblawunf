@@ -5,6 +5,9 @@ I am currently following The Odin Project and learning full-stack web developmen
 
 ## Projects
 These are all pretty bad but I'm proud of them
+* :pencil:; **Etch-a-Sketch**, drawing tool with customisable pizel size.
+  * [Live preview](https://herblawunf.github.io/Etch-a-Sketch/)
+  * Repository: [Github](https://github.com/Herblawunf/Etch-a-Sketch)
 * &#128216; **My first website**, the first website I built from scratch with the Odin Project.
   * [Live preview](https://herblawunf.github.io/TOP-Practice/)
   * Repository: [Github](https://github.com/Herblawunf/TOP-Practice)
