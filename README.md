@@ -1,8 +1,5 @@
 # 👑 Dylan's Github
 
-**`Just a guy learning to code`** <br />
-I am currently following The Odin Project and learning full-stack web development 
-
 ## Projects
 These are all pretty bad but I'm proud of them
 * :pencil:; **Etch-a-Sketch**, drawing tool with customisable pizel size.
